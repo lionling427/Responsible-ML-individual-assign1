@@ -34,12 +34,8 @@ This project analyzes a recidivism prediction model using multiple explainabilit
 ## Project Structure
 
 ```
-RML-individual-assign/
-├── README.md
-├── notebooks/
-│   └── compas_analysis.ipynb
-├── data/
-│   └── compas.csv
-└── src/
-        └── explainability.py
+Assign 2/
+├── assign2.ipynb          # Main analysis (SHAP, LIME, counterfactuals)
+├── README.md              # Summary of methods, findings, and governance implications
+└── RML group assign 2.pdf # Assignment instructions
 ```
